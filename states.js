@@ -1,7 +1,7 @@
 function g(e)
 {
     document.cookie="S="+e.id;
-    location.href="https://enouprivacypolicy.blogspot.com/search/label/"+document.getElementById(e.id).innerHTML+" Jobs";
+    location.href="https://epcareerjobs.blogspot.com/search/label/"+document.getElementById(e.id).innerHTML+" Jobs";
 }
 function focusState()
 {
