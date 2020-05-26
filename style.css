@@ -1,0 +1,12 @@
+body{padding:0;margin:0;font-family: 'Quicksand', sans-serif;background-color: #FFF;}
+.b{font-weight: bold;}
+.shadow{box-shadow: 2px 2px 8px #e1e1e1;}
+.flex{display:flex;}
+.jc-sb{justify-content:space-between;}
+.jc-sa{justify-content:space-around;}
+
+.t-blue{color:#0047FD;}
+
+.header>div{padding:0.8rem;}
+
+.btn{display: inline-block;text-decoration: none;padding: 0.5rem;border-radius: 0.5rem;}

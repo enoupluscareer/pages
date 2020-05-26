@@ -1,0 +1,14 @@
+.menu>a,.menu>div
+{
+    box-shadow: 1px 1px 4px #C6FFD2;
+    border:0.5px solid #00ff00;
+    border-radius: 0.5rem;
+    padding: 0.8rem;
+    margin: 1rem;display:block;color: #000;text-decoration: none;
+    font-weight: bold;
+}
+.menu>a:hover,.menu>div:hover
+{
+    background-color: #8900ff;
+    color: white;
+}
